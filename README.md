@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **exploring myself✨**
 
-- 🌱 I’m currently learning **Python programming | c++ programming 💻**
+- 🌱 I’m currently learning **c programming | c++ programming 💻**
 
 - 📫 How to reach me **sp1582912@gmail.com**
 
@@ -17,8 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_the_shivam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="_the_shivam" height="30" width="40" /></a>
-<a href="https://instagram.com/_the_shivam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="_the_shivam" height="30" width="40" /></a>
+<li><a href="https://www.linkedin.com/in/shivam-kumar-2101a3261/" class="icon brands fa-linkedin"><span class="label">linkedin</span></a></li>
+<li><a href="https://www.facebook.com/shivam2424" class="icon brands fa-facebook-f"><span class="label">facebook</span></a></li>
+<li><a href="https://www.instagram.com/theshhivam/" class="icon brands fa-instagram"><span class="label">instagram</span></a></li>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
