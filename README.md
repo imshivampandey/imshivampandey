@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **c programming | c++ programming 💻**
 
-- 📫 How to reach me **sp1582912@gmail.com**
-
 - ⚡ Fun fact **Artist by passion🖤 ,techie by mind 👨🏻‍💻**
 
 <h3 align="left">Connect with me:</h3>
